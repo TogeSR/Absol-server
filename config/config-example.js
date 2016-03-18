@@ -337,7 +337,7 @@ exports.grouplist = [
 		joinbattle: true,
 	},
 	{
-		symbol: '☎'',
+		symbol: '☎',
 		id: "secretario",
 		name: "Secretario",
 		inherit: '@',
